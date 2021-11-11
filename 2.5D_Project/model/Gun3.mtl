@@ -1,0 +1,78 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:03.09.2021 10:38:51
+
+newmtl wire_006134006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0235 0.5255 0.0235
+	Kd 0.0235 0.5255 0.0235
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Metal_Grey_Plain
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4392 0.4392 0.4392
+	Ks 1.2690 1.2690 1.2690
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__12_Noise.png
+	map_Kd Map__12_Noise.png
+
+newmtl Metal_Black_Plain
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4392 0.4392 0.4392
+	Kd 0.4392 0.4392 0.4392
+	Ks 1.2690 1.2690 1.2690
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__12_Noise.png
+	map_Kd Map__12_Noise.png
+
+newmtl Ground_Water
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0706 0.0706 0.0706
+	Kd 0.2471 1.0000 0.2078
+	Ks 0.8176 0.9059 0.9706
+	Ke 0.0000 0.0000 0.0000
+	map_bump Map__16_Noise.png
+	map_refl Map__15_Mask.png
+
+newmtl Wood_Grey_Plank
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1961 0.4510 0.5333
+	Kd 0.1961 0.4510 0.5333
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Fabric_Grey_Carpet
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1765 0.1765 0.1765
+	Kd 0.1765 0.1765 0.1765
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
